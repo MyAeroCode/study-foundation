@@ -30,7 +30,7 @@
 
 ![](./images/virtual-private-network-2.png)
 
-이것은 `VPN Server`와 닿을수만 있다면 `Private Network`에 참가할 수 있다는 것을 의미합니다. `VPN Server`가 `Public Network`에 참가하고 있다면, 외부에서 사설망에 접근하는 것이 가능하며, 보통 `재택근무` 또는 `본사-지사`간의 네트워크 구축을 위해 사용됩니다.
+이것은 `VPN Server`와 닿을수만 있다면 `Private Network`에 참가할 수 있다는 것을 의미합니다. `VPN Server`가 `Public Network`에 참가하고 있다면, 외부에서 사설망에 접근하는 것이 가능하며, 보통 `재택근무` 또는 `본사-지사`간의 네트워크 구축을 위해 사용됩니다. 이것을 `Extranet`이라고 합니다.
 
 ![](./images/virtual-private-network-3.png)
 
